@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/Gamefactory-JR-Factory-Homeworks/blob/main/images/logo/alierenkayhangamefactory.jpg?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
+<img align="left" src="https://github.com/Alierenkayhan/Gamefactory-JR-Factory-Homeworks/blob/main/images/screenshots/logo/alierenkayhangamefactory.jpg?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
     
 # Gamefactory-JR-Factory-Homeworks
  
@@ -119,8 +119,8 @@ Don't forget to give the project a star! Thanks again!
   1-Screenshots of homework 1
   <table> 
     <tr>
-        <td>  <img align="left" src="" alt="AliErenKayhanGameFactory" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="e" alt="AliErenKayhanGameFactory" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/Gamefactory-JR-Factory-Homeworks/blob/main/images/screenshots/hw_1/AliErenKayhanGamefactoryHW1SS1.jpg?raw=true" alt="AliErenKayhanGameFactory" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/Gamefactory-JR-Factory-Homeworks/blob/main/images/screenshots/hw_1/AliErenKayhanGamefactoryHW1SS2.jpg?raw=true"" alt="AliErenKayhanGameFactory" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
@@ -128,9 +128,6 @@ Don't forget to give the project a star! Thanks again!
 ## 🔗 Drive Link
 * Drive Link for homework folder => https://drive.google.com/drive/folders/1vL3xYGGrVI6b-2L4bS8FCnwhYiUHY4PY?usp=share_link
 * Drive Link for homework 1 => https://drive.google.com/drive/folders/1qVqi_G2K0Hfv3BNOf8hAiY4nAyb0AQ6m?usp=share_link
-
-## 🔗 Itch.io Link
-* Itch.io Link for homework 1 => 
 
 
 <!-- LICENSE -->
